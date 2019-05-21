@@ -1,2 +1,2 @@
-# deep-learning-with-keras
+# Deep Learning with Keras
 A repository for different neural network architecture using Keras.
